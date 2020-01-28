@@ -13,8 +13,8 @@ OBS: Este algoritmo pode ser modificado para atender suas necessidades.
 
 
 ## Imagens do App
-
-<video src="https://github.com/fabriicioa/cannyDeteccaoDeBordas/blob/master/Arquivos/screenVideoRGB.webm" width="320" height="200" autoplay controls loop="loop"></video>
+<a href="url"><img src="https://github.com/fabriicioa/cannyDeteccaoDeBordas/blob/master/Arquivos/screenVideoRGB.gif" align="left" height="480" width="260" ></a>
+![Video](https://github.com/fabriicioa/cannyDeteccaoDeBordas/blob/master/Arquivos/screenVideoRGB.gif)
 
 
 ## Contribua
