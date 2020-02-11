@@ -1,8 +1,6 @@
 # Detector de Cores RGB
 ## Color Detection
 
-Detecção de cores(RGB) em uma imagem, utilizando conceitos de limite inferior e superior de cada canal, HSV, encontro de contornos e desenho de contornos em uma imagem. 
-
 OBS: Este algoritmo pode ser modificado para atender suas necessidades. 
 
 ### Biblioteca utilizada para o processamento digital de imagens [OpenCV](https://opencv.org/) (Versão 3.4.3)
